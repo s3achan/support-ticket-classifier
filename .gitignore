@@ -1,0 +1,10 @@
+# OpenAI API key – never commit!
+.env
+.streamlit/secrets.toml
+
+# Optional but recommended extras
+__pycache__/
+*.pyc
+.DS_Store
+venv/
+.env.local
